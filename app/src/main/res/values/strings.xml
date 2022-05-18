@@ -1,0 +1,3 @@
+<resources>
+    <string name="app_name">Android MVVM with Dagger 2, Retrofit and Coroutines</string>
+</resources>
